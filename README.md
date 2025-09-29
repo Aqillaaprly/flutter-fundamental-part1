@@ -63,7 +63,7 @@ samples, guidance on mobile development, and a full API reference.
 ![alt text](img/NO3.gif)
 
 ## 4. Complete Codelabs: Your first Flutter app, then make the practicum report and push it to your GitHub repository!
-(link github)
+([link github](https://github.com/Aqillaaprly/flutter-application-1))
 
 ## 5. README.md must contain: captures of the final result of each practicum (side-by-side, it can also be a GIF file to show the process of change when there is user interaction) while displaying your Student ID (NIM) and Name as proof of your work.
 
